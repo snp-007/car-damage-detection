@@ -26,3 +26,4 @@ The model is trained on third quarter front and rare view hence the picture shou
 2. Run the streamlit app:
    ```commandline
    streamlit run app.py
+<a href = "https://car-damage-detection-snp.streamlit.app/">Checkout the Deployed app</a>
